@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/landing-page/static/css/main.7556d6f0.css",
+    "main.js": "/landing-page/static/js/main.86ce14bc.js",
+    "static/media/SG.png": "/landing-page/static/media/SG.336e122ce85e9081857b.png",
+    "static/media/Sass.png": "/landing-page/static/media/Sass.9537ac2f37eee70a0ca5.png",
+    "static/media/myPhoto.jpeg": "/landing-page/static/media/myPhoto.35f7295dd04a87073218.jpeg",
+    "static/media/JS.png": "/landing-page/static/media/JS.ac7a57fd9e0eed648be2.png",
+    "static/media/WA.png": "/landing-page/static/media/WA.63e95474c99e9813c196.png",
+    "static/media/CSS.png": "/landing-page/static/media/CSS.d02710a870ded9a3099d.png",
+    "static/media/HTML.png": "/landing-page/static/media/HTML.17d34e7a388b2153cff2.png",
+    "static/media/Figma.png": "/landing-page/static/media/Figma.3a82106b9f5a6c7efaee.png",
+    "static/media/TS.png": "/landing-page/static/media/TS.52ea0bc40ba11d507e7d.png",
+    "static/media/HH.png": "/landing-page/static/media/HH.d0cc35f31f85470613a6.png",
+    "static/media/Vector.png": "/landing-page/static/media/Vector.7b014e88ea1989f8f0cd.png",
+    "static/media/GH.png": "/landing-page/static/media/GH.81f6de8e58e3ea8760ee.png",
+    "static/media/GMail.png": "/landing-page/static/media/GMail.c31d935eb625cc4662ac.png",
+    "static/media/Pizza.svg": "/landing-page/static/media/Pizza.56ac87032d8f6fdf863326acd06c0d97.svg",
+    "static/media/React.svg": "/landing-page/static/media/React.add74742e9e8f8827f7fa666dca760db.svg",
+    "static/media/Pixlpark.svg": "/landing-page/static/media/Pixlpark.a6903f6abc594faf3d9be8232a0b0259.svg",
+    "static/media/Sputnik.svg": "/landing-page/static/media/Sputnik.0b254b0a363cbac6729eadaecbbd41b2.svg",
+    "static/media/LP.svg": "/landing-page/static/media/LP.69ff366f4f784ba6249b201b272fdfae.svg",
+    "static/media/VK.svg": "/landing-page/static/media/VK.81f98878c5cf1f6415bb2ed5c7253261.svg",
+    "static/media/TG.svg": "/landing-page/static/media/TG.89d23a21f9cbdc309acc7e6db5d0a5fc.svg",
+    "static/media/Tailwind.svg": "/landing-page/static/media/Tailwind.315d0ac2a2708d5f06972906113dfbf1.svg",
+    "index.html": "/landing-page/index.html",
+    "main.7556d6f0.css.map": "/landing-page/static/css/main.7556d6f0.css.map",
+    "main.86ce14bc.js.map": "/landing-page/static/js/main.86ce14bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7556d6f0.css",
+    "static/js/main.86ce14bc.js"
+  ]
+}
